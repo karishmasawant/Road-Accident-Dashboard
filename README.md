@@ -51,7 +51,7 @@ By surfacing the *where*, *when*, and *why* behind collisions, the dashboard sup
 ---
 
 ## 🔗 Live Dashboard  
-**▶️ [Explore on Tableau Public](https://public.tableau.com/app/profile/YOUR_USER/viz/ROAD_ACCIDENT_DASHBOARD/MainView)**
+**▶️ [Explore on Tableau Public](https://public.tableau.com/app/profile/karishma.sawant/viz/RoadAccident_17395459826550/RoadAccidentDashboard)**
 
 ---
 
