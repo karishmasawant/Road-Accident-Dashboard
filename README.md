@@ -55,20 +55,18 @@ By surfacing the *where*, *when*, and *why* behind collisions, the dashboard sup
 
 ---
 
-## 🖼 Preview  
+🖼 Preview
+📊 KPI Overview
+![Road Accident Overview](visuals/Road Accident-Overview(5).png)
 
-### KPI Overview  
-![KPI Overview](visuals/road_accident_dashboard.png)
+💀 Fatal Casualties
+![Road Accident Fatal Casualties](visuals/Road Accident Fatal Casualties.png)
 
-### Severity Heatmap  
-![Severity Heatmap](visuals/severity_heatmap.png)
+🚑 Serious Casualties
+![Road Accident Serious Casualties](visuals/Road Accident Serious Casualties.png)
 
-### Vehicle‑Type Breakdown  
-![Vehicle‑Type Breakdown](visuals/vehicle_type.png)
-
-### Weather Impact  
-![Weather Impact](visuals/weather.png)
-
+🤕 Slight Casualties
+![Road Accident Slight Casualties](visuals/Road Accident Slight severity(6).png)
 
 ---
 
