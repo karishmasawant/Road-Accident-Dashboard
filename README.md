@@ -69,15 +69,13 @@ By surfacing the *where*, *when*, and *why* behind collisions, the dashboard sup
 ### Weather Impact  
 ![Weather Impact](visuals/weather.png)
 
-*(Place these high‑resolution PNGs/GIFs in a `visuals/` folder; adjust names if needed.)*
 
 ---
 
 ## 📦 Dataset  
 - **Source**: UK Department for Transport – Road Safety Data (2019‑2021)  
-- **Records**: ≈ 368 k accidents, ≈ 476 k casualty entries  
+- **Volume**: ≈ 680,000 accident records, ≈ 880,000 casualty entries
 - **License**: Open Government Licence (OGL v3.0)  
-*A 5 000‑row sample (`data/accidents_sample.csv`) is included for schema reference.*
 
 ---
 
