@@ -9,11 +9,11 @@ The goal is to turn millions of raw accident‑and‑casualty records into actio
 
 **What the dashboard delivers**
 
-- **KPI Deck** – headline metrics for total accidents and casualties (fatal, serious, slight) with YoY deltas.  
-- **Severity Heatmap** – a UK map coloured by accident severity to pinpoint danger hotspots at a glance.  
-- **Vehicle‑Type Breakdown** – shows how cars, HGVs, bikes, and motorcycles contribute to accident counts and casualty severity.  
-- **Weather & Road‑Surface Impact** – reveals how rain, snow, fog, and surface conditions (wet, icy, dry) influence crash outcomes.  
-- **Interactive Filters** – slice the data by year, severity level, vehicle type, and road type to drill into patterns that matter to you.
+- **KPI Deck** – headline metrics for total accidents and casualties (fatal, serious, slight) with YoY deltas  
+- **Severity Heatmap** – a UK map coloured by accident severity to pinpoint danger hotspots at a glance  
+- **Vehicle‑Type Breakdown** – shows how cars, HGVs, bikes, and motorcycles contribute to accident counts and casualty severity  
+- **Weather & Road‑Surface Impact** – reveals how rain, snow, fog, and surface conditions (wet, icy, dry) influence crash outcomes  
+- **Interactive Filters** – slice the data by year, severity level, vehicle type, and road type to drill into patterns that matter to you
 
 By surfacing the *where*, *when*, and *why* behind collisions, the dashboard supports evidence‑based road‑safety policies, targeted infrastructure upgrades, and public awareness campaigns.
 
@@ -55,37 +55,26 @@ By surfacing the *where*, *when*, and *why* behind collisions, the dashboard sup
 
 ---
 
-🖼 Preview
-📊 KPI Overview
+## 🖼 Preview  
+
+#### 📊 KPI Overview  
 ![Road Accident Overview](visuals/Road Accident-Overview(5).png)
 
-💀 Fatal Casualties
+#### 💀 Fatal Casualties  
 ![Road Accident Fatal Casualties](visuals/Road Accident Fatal Casualties.png)
 
-🚑 Serious Casualties
+#### 🚑 Serious Casualties  
 ![Road Accident Serious Casualties](visuals/Road Accident Serious Casualties.png)
 
-🤕 Slight Casualties
+#### 🤕 Slight Casualties  
 ![Road Accident Slight Casualties](visuals/Road Accident Slight severity(6).png)
 
 ---
 
 ## 📦 Dataset  
-- **Source**: UK Department for Transport – Road Safety Data (2019‑2021)  
-- **Volume**: ≈ 680,000 accident records, ≈ 880,000 casualty entries
-- **License**: Open Government Licence (OGL v3.0)  
+- **Source**: UK Department for Transport – Road Safety Data (2019–2022)  
+- **Time Range**: 4 years (2019, 2020, 2021, 2022)  
+- **Volume**: ≈ 680,000 accident records, ≈ 920,000 casualty entries  
+- **Format**: CSV files merged via Power Query  
+- **License**
 
----
-
-## 🙌 Contributing / Feedback  
-Spot an insight—or an error? Open an issue or PR. Contributions such as new analytical angles (e.g., seasonal trends, ML severity prediction) are welcome!
-
----
-
-## 📬 Connect  
-[![LinkedIn – Karishma Sawant](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/karishmaasawant)
-
----
-
-## 🔖 License  
-This repository is released under the MIT License—see `LICENSE` for full text.
