@@ -87,4 +87,4 @@ Spot an insight—or an error? Open an issue or PR. Contributions such as new an
 ---
 
 ## 🔖 License  
-
+This project is licensed under the [MIT License](LICENSE).
