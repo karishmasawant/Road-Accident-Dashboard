@@ -76,8 +76,9 @@ By surfacing the *where*, *when*, and *why* behind collisions, the dashboard sup
 - **Time Range**: 4 years (2019, 2020, 2021, 2022)  
 - **Volume**: ≈ 680,000 accident records, ≈ 920,000 casualty entries  
  
-## 🙌 Contributing / Feedback  
-Spot an insight—or an error? Open an issue or PR. Contributions such as new analytical angles (e.g., seasonal trends, ML severity prediction) are welcome!
+## 🤝 Contributing / Feedback  
+Found an insight or noticed an issue? Feel free to open an issue or submit a pull request.  
+Contributions are welcome—whether it's a new analytical perspective (e.g., seasonal trends, ML-based severity prediction) or improvements to existing work.
 
 ---
 
